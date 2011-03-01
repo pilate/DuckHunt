@@ -1,0 +1,17 @@
+#stamp_canvas {
+    background:black;
+    border:1px solid black;
+    
+}
+
+#container {
+    width:802px;
+    height:500px;
+}
+canvas {
+  image-rendering: -moz-crisp-edges;
+}
+.center {
+    margin-left:auto;
+    margin-right:auto;
+}
